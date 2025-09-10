@@ -14,9 +14,13 @@ It aims to provide insights into long-term changes and relationships across key 
 
 ## 📁 Project Structure
 Global-Index-Visualization/
+
 ├── dataset/
+
 │ └── global_index_data.xlsx
+
 ├── Global_Index_Visualization.twbx
+
 └── README.md
 ---
 
