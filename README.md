@@ -27,4 +27,4 @@ Global-Index-Visualization/
 ### 🧑‍💻 Author
 **Darrell Jeremy**  
 📧 [darrelj2005@gmail.com](mailto:darrelj2005@gmail.com)  
-🔗 [LinkedIn Profile](www.linkedin.com/in/darrell-jeremy-50a42928a)
+🔗 [LinkedIn Profile](https://linkedin.com/in/darrell-jeremy-50a42928a)
